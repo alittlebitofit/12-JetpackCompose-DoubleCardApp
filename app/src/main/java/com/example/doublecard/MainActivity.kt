@@ -114,7 +114,7 @@ fun CardForApp(doubleCard: DoubleCard, modifier: Modifier = Modifier) {
             .padding(12.dp)
             .fillMaxWidth(),
         colors = CardDefaults.cardColors(
-            containerColor = Color.LightGray
+            containerColor = Color.White
         )
     ) {
         Column(
